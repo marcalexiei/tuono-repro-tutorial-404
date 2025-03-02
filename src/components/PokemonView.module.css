@@ -1,0 +1,24 @@
+.pokemon {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.name {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.pokemon img {
+  width: 400px;
+}
+
+.spec {
+  display: flex;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.label {
+  font-weight: 700;
+}
